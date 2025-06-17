@@ -18,3 +18,8 @@ This analysis constructs a binary classification model to categorise waste produ
 
 A crack detection system is developed using a binary classification approach. The methodology involves leveraging Python and the PyTorch framework, with transfer learning implemented via a pre-trained ResNet model. Image augmentation techniques are applied, followed by model training and evaluation of its crack detection capabilities.
 
+### Course 13: Generative AI Applications with RAG and LangChain (Final Project)
+#### [LangChain QA Bot](https://github.com/isi22/IBM_AI_Engineering_Professional_Certificate/blob/main/LangChain_QA_Bot.ipynb) _[(open with nbviewer)](https://nbviewer.org/github/isi22/IBM_AI_Engineering_Professional_Certificate/blob/main/LangChain_QA_Bot.ipynb)_
+
+This project develops a Retrieval-Augmented Generation (RAG) powered chatbot designed to answer questions from uploaded PDF documents. It achieves this by integrating document processing, vector embeddings for information retrieval, and a Large Language Model for coherent answer generation. The solution, built with LangChain and leveraging IBM's watsonx.ai, transforms static documents into interactive knowledge bases.
+
